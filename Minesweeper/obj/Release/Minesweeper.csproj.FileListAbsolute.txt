@@ -1,0 +1,12 @@
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\bin\Release\Minesweeper.pdb
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\ResolveAssemblyReference.cache
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.About.resources
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.Block.resources
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.Controller.resources
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.NewSize.resources
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.View.resources
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.Cache
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.exe
+H:\Documents\Programming\C#\PROJECTS\Minesweeper\Minesweeper\obj\Release\Minesweeper.pdb
